@@ -1,1 +1,17 @@
-# Haskell_codewars
+This will be the repo for all the codewar questions I do in Haskell. 
+
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+10)
+11)
+12)
+13)
+14)
+15)
